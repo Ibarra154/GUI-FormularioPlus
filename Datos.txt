@@ -1,0 +1,5 @@
+Carlos Silva,20,70,1.70,10 
+Diego Infante,20,108,1.75,20 
+Ivan Ibarra,24,90,1.83,10 
+Erick Ibarra,30,170,1.93,40
+Carlos Silva,20,70,1.70,10 
